@@ -80,7 +80,7 @@ The model is capable of identifying late deliveries with high accuracy, offering
 - Prioritizing critical shipments
 - Resource allocation to reduce delays
 - Improving customer satisfaction
-- [Document to client]('docs/doc_client.pdf') with details about analise.
+- [Document to client](docs/doc_client.pdf) with details about analise.
 
 ---
 
@@ -104,10 +104,10 @@ The model is capable of identifying late deliveries with high accuracy, offering
 
 ## 🗂️ Files
 
-- [`__init__.ipynb`]('__init__.ipynb'): Full source code (notebook format)
-- [`_notebook.pdf`]('docs/_notebook.pdf'): Printable version of the analysis
-- [`shipment.csv`]('base/Train.csv') from Kaggle: Source dataset
-- [Base documentation]('https://www.kaggle.com/datasets/prachi13/customer-analytics')
+- [`__init__.ipynb`](__init__.ipynb): Full source code (notebook format)
+- [`_notebook.pdf`](docs/_notebook.pdf): Printable version of the analysis
+- [`shipment.csv`](base/Train.csv) from Kaggle: Source dataset
+- [Base documentation](https://www.kaggle.com/datasets/prachi13/customer-analytics)
 
 ---
 
